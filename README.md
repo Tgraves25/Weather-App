@@ -14,6 +14,8 @@ ClimaSense is a simple, user-friendly weather forecasting web application. Enter
 2. **Fetch Forecast**: Click the "Get Weather" button to retrieve the weather forecast.
 3. **View Results**: The weather, temperature, and forecast details will be displayed on the screen.
 
+Check it out here: https://tgraves25.github.io/Weather-App/
+
 ## Tech Stack
 
 - **HTML**: Structure of the application.
